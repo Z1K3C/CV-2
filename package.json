@@ -1,0 +1,16 @@
+{
+  "name": "Resume_CV",
+  "version": "2.0.0",
+  "description": "My Resume with node/backend configuration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "eadbeel94",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
